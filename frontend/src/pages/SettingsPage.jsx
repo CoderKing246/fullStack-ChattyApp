@@ -1,4 +1,4 @@
-import { THEMES } from "../constants";
+import { THEMES } from "../constants.js";
 import { useThemeStore } from "../store/useThemeStore.js";
 import { Send } from "lucide-react";
 
