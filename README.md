@@ -1,4 +1,5 @@
 # Chatty App
+** Demo** :- https://chatty-app-8iyy.onrender.com
 
 **Chatty App** is a real-time chat application built with the **MERN stack**, enhanced with **Socket.IO** for instant messaging and **DaisyUI** for modern, responsive UI components. The app allows users to register, login, and engage in real-time conversations with other users, making communication seamless and interactive.
 
